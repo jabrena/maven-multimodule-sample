@@ -1,0 +1,12 @@
+${AnsiColor.GREEN}
+___  ___ _                      __
+|  \/  |(_)                    /  |
+| .  . | _   ___  _ __   ___   `| |
+| |\/| || | / __|| '__| / _ \   | |
+| |  | || || (__ | |   | (_) | _| |_
+\_|  |_/|_| \___||_|    \___/  \___/
+
+${AnsiColor.RED}
+Application Coordinates: ${application.group}:${application.artifact}:${application.version}
+Spring Boot ${spring-boot.formatted-version}
+${AnsiColor.DEFAULT}
